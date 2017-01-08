@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 494433144771fc042ba5ae2bdc74e3cf
+timeCreated: 1449945696
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gg_0
+    21300002: gg_1
+    21300004: gg_2
+    21300006: gg_3
+    21300008: gg_5
+    21300010: gg_6
+    21300012: gg_7
+    21300014: gg_8
+    21300016: gg_9
+    21300018: gg_11
+    21300020: gg_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gg_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 268
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .628374875, y: .513348818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 268
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .625382483, y: .526902199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 268
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .60680747, y: .515372634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 268
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .625382483, y: .523058891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 268
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .620738745, y: .523058891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 268
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .616094947, y: .580706179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 105
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .620738685, y: .557647049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 95
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .616094828, y: .55380404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 104
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .616094947, y: .592235506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 105
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .643958032, y: .619137347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gg_12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 105
+        width: 120
+        height: 145
+      alignment: 9
+      pivot: {x: .630026221, y: .622980475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
